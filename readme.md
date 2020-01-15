@@ -1,4 +1,4 @@
-Membre du groupe:
+Membre du groupe:<br>
 	- Damien DE WEERD.
 
 Les emails sont tous du type 'test{0/99}@test.com'
